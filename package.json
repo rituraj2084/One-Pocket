@@ -1,0 +1,14 @@
+{
+  "name": "one-pocket",
+  "version": "1.0.0",
+  "description": "One Pocket assignment",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritu Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
